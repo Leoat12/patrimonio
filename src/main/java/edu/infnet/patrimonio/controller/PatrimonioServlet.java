@@ -11,8 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.List;
 
-// TODO: Adicionar schema da tabela
-// TODO: Adicionar README.md
 @WebServlet(name = "patrimonio", urlPatterns = "")
 public class PatrimonioServlet extends HttpServlet {
 
